@@ -1,0 +1,19 @@
+{
+  "name": "frm-validate-pkg",
+  "version": "1.0.0",
+  "description": "Paquete de input para formularios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elepec29/form-validation-pkg.git"
+  },
+  "author": "elepe28",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elepec29/form-validation-pkg/issues"
+  },
+  "homepage": "https://github.com/elepec29/form-validation-pkg#readme"
+}
